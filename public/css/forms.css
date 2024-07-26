@@ -1,0 +1,52 @@
+.form-control {
+    margin: 1rem 0;
+}
+
+.form-control label,
+.form-control input {
+    display: block;
+    width: 100%;
+    margin-bottom: 0.25rem;
+}
+
+.form-control input {
+    border: 1px solid #a1a1a1;
+    font: inherit;
+    border-radius: 2px;
+}
+
+.form-control input:focus {
+    outline-color: #00695c;
+}
+
+/*.product-form {*/
+/*    width: 20rem;*/
+/*    max-width: 90%;*/
+/*    margin: auto;*/
+/*}*/
+/*.form-control{*/
+/*    margin: 1rem 0;*/
+/*}*/
+/*.form-control label,*/
+/*.form-control input {*/
+/*    display: block;*/
+/*    width: 100%;*/
+/*}*/
+/*.form-control input {*/
+/*    border: 1px solid #e39918;*/
+/*    font: inherit;*/
+/*    border-radius: 2px;*/
+/*}*/
+/*button {*/
+/*    font: inherit;*/
+/*    border: 1px solid #e39918;*/
+/*    color: #e39918;*/
+/*    background: white;*/
+/*    border-radius: 3px;*/
+/*    cursor: pointer;*/
+/*}*/
+/*button:hover,*/
+/*button:active {*/
+/*    background-color: black;*/
+/*    color: #e39918;*/
+/*}*/
